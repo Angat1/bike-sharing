@@ -1,16 +1,27 @@
 # Project Name
->  Bike-Sharing Liner regression model building.
+> Bike-Sharing Liner regression model building.
 
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-
+* [Conclusions](#conclusions)
+* [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 Bike sharing is a popular mode of transportation in many cities around the world. In recent years, new bike sharing companies have begun using machine learning to optimize their operations. Machine learning is used to predict demand for bikes at different times and locations, and to optimize the distribution of bikes to meet that demand. This has led to more efficient bike sharing operations, and has made it easier for people to find and use bike sharing services.
+
+The dataset is obtained which is publically availabel by BoomBikes
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Conclusions
+- Registered has the highest correlation with the target variable  
+- Working days doesnot impact the ride number
+- As year increass ride increass because of customer relation
+- Temperature has the impact on the number of ride 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
